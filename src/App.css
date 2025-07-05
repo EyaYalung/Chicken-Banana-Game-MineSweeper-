@@ -53,5 +53,12 @@
   margin: auto;
 }
 
+#alert {
+  cursor: default;
+  text-align: center;
+  font-size: larger;
+  font-family: impact;
+}
+
 
 
